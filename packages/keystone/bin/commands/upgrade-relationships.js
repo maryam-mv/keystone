@@ -86,6 +86,8 @@ const simpleSummary = ({
 
 const upgradeRelationships = async (args, entryFile, spinner) => {
   // Allow the spinner time to flush its output to the console.
+  console.log(spinner);
+  console.log(simpleSummary);
   await new Promise(resolve => setTimeout(resolve, 100));
   const { keystone } = require(path.resolve(entryFile));
 
