@@ -45,10 +45,10 @@ There are also more sophisticated relationship patterns, such as ordered relatio
 To address these problems at their core we have changed our data schema to be normalised and to eliminate the duplicated data.
 These means that our query generation code has become more complex, but this trade off gains us a large number of benefits:
 
- * Eliminates duplicated data in the data.
- * Uses a more conventional database schema design, particular for `PostgreSQL`.
- * More robust query generation.
- * More extensible relationship patterns.
+- Eliminates duplicated data in the data.
+- Uses a more conventional database schema design, particular for `PostgreSQL`.
+- More robust query generation.
+- More extensible relationship patterns.
 
 ## Updating your database
 
