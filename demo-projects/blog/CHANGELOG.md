@@ -1,5 +1,26 @@
 # keystone_demo_blog
 
+## 5.3.1
+
+### Patch Changes
+
+- [`89bec596`](https://github.com/keystonejs/keystone/commit/89bec5966c07ea700a863d3a7a8d1ebb8fb5541a) [#2608](https://github.com/keystonejs/keystone/pull/2608) Thanks [@Vultraz](https://github.com/Vultraz)! - Updated Next.js depedency to 9.3.2 to incorporate an important security fix.
+
+* [`c70c339a`](https://github.com/keystonejs/keystone/commit/c70c339a307d92427962f7332bc371f9226bb2d6) [#2603](https://github.com/keystonejs/keystone/pull/2603) Thanks [@Vultraz](https://github.com/Vultraz)! - Removed apollo-boost dependency and switched the meetup demo to using apollo-upload-client.
+
+* Updated dependencies [[`e7e4bc1d`](https://github.com/keystonejs/keystone/commit/e7e4bc1d22149d4daceb31d303f6ad10c2b853ba), [`58c4ffc3`](https://github.com/keystonejs/keystone/commit/58c4ffc3d4b1edf8bdfbc4ea299133d303239fc6), [`b4d16b89`](https://github.com/keystonejs/keystone/commit/b4d16b89aab643f34d70f42823817a246bf16373), [`89bec596`](https://github.com/keystonejs/keystone/commit/89bec5966c07ea700a863d3a7a8d1ebb8fb5541a), [`c08c28d2`](https://github.com/keystonejs/keystone/commit/c08c28d22f2c6a2bfa73ab0ea347c9e0da8a9063), [`3407fa68`](https://github.com/keystonejs/keystone/commit/3407fa68b91d7ebb3e7288c7e95631013fe12535)]:
+  - @keystonejs/fields@7.0.3
+  - @keystonejs/app-admin-ui@5.9.4
+  - @keystonejs/app-next@5.1.2
+  - @keystonejs/adapter-mongoose@6.0.1
+  - @keystonejs/app-graphql@5.1.5
+  - @keystonejs/app-static@5.1.2
+  - @keystonejs/auth-password@5.1.4
+  - @keystonejs/fields-markdown@5.1.4
+  - @keystonejs/file-adapters@6.0.1
+  - @keystonejs/keystone@7.1.0
+  - @keystonejs/oembed-adapters@5.1.3
+
 ## 5.3.0
 
 ### Minor Changes

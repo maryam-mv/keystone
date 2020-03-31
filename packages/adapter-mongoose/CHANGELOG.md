@@ -1,5 +1,15 @@
 # @keystonejs/adapter-mongoose
 
+## 6.0.1
+
+### Patch Changes
+
+- [`c08c28d2`](https://github.com/keystonejs/keystone/commit/c08c28d22f2c6a2bfa73ab0ea347c9e0da8a9063) [#2593](https://github.com/keystonejs/keystone/pull/2593) Thanks [@jossmac](https://github.com/jossmac)! - Consistent voice throughout documentation
+
+- Updated dependencies [[`c08c28d2`](https://github.com/keystonejs/keystone/commit/c08c28d22f2c6a2bfa73ab0ea347c9e0da8a9063), [`3407fa68`](https://github.com/keystonejs/keystone/commit/3407fa68b91d7ebb3e7288c7e95631013fe12535)]:
+  - @keystonejs/fields-mongoid@5.1.5
+  - @keystonejs/keystone@7.1.0
+
 ## 6.0.0
 
 ### Major Changes

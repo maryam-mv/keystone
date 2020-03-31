@@ -1,5 +1,20 @@
 # @keystonejs/keystone
 
+## 7.1.0
+
+### Minor Changes
+
+- [`3407fa68`](https://github.com/keystonejs/keystone/commit/3407fa68b91d7ebb3e7288c7e95631013fe12535) [#2575](https://github.com/keystonejs/keystone/pull/2575) Thanks [@MadeByMike](https://github.com/MadeByMike)! - Added a cli script `keystone create-tables` that will initialise an empty database with the Knex Adapter.
+
+### Patch Changes
+
+- [`c08c28d2`](https://github.com/keystonejs/keystone/commit/c08c28d22f2c6a2bfa73ab0ea347c9e0da8a9063) [#2593](https://github.com/keystonejs/keystone/pull/2593) Thanks [@jossmac](https://github.com/jossmac)! - Consistent voice throughout documentation
+
+- Updated dependencies [[`e7e4bc1d`](https://github.com/keystonejs/keystone/commit/e7e4bc1d22149d4daceb31d303f6ad10c2b853ba), [`58c4ffc3`](https://github.com/keystonejs/keystone/commit/58c4ffc3d4b1edf8bdfbc4ea299133d303239fc6), [`c08c28d2`](https://github.com/keystonejs/keystone/commit/c08c28d22f2c6a2bfa73ab0ea347c9e0da8a9063)]:
+  - @keystonejs/fields@7.0.3
+  - @keystonejs/app-version@1.0.1
+  - @keystonejs/session@6.0.1
+
 ## 7.0.0
 
 ### Major Changes
